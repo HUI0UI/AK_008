@@ -1,7 +1,7 @@
 import os
 import sys
 sys.path.append(os.getcwd())
-from v4.tools.read_yaml import read_yaml
+from tools.read_yaml import read_yaml
 
 import pytest
 
