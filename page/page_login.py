@@ -1,5 +1,5 @@
 from v4 import page
-from v4.base.base import Base
+from base.base import Base
 
 
 class PageLogin(Base):
